@@ -15,7 +15,7 @@ I specialize in machine learning, statistical modeling, and data storytelling us
 - 🔍 Currently exploring **deep learning** and **model deployment**
 - 🤝 Open to collaborations in **data science**, **ML projects**, and **research**
 - 💬 Ask me about **data analysis**, **predictive modeling**, or **data visualization**
-- 📫 Reach me at: [rahul.maharshi@example.com](mailto:helllo.rahul@gmail.com)
+- 📫 Reach me at: [helllo.rahull@gmail.com](mailto:helllo.rahul@gmail.com)
 - 🌐 Portfolio: [rahulmaharshi.dev](https://rahulmaharshi.dev) <!-- Replace with your actual URL -->
 
 ---
