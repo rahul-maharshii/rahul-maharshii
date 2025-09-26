@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=rahul-maharshi&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-maharshi" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Science" width="500">
+</p>
+
 ---
 
 ## 🌟 About Me
