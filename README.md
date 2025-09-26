@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahul-maharshi&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-maharshi" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Working on Data Science Projects">
 </p>
 
