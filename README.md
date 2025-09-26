@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Science" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Working on Data Science Projects">
 </p>
+<h3 align="center">Aspiring Data Scientist | Python Enthusiast | ML Explorer</h3>
+
 
 ---
 
