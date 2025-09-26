@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Working on Data Science Projects">
 </p>
-<h3 align="center">Aspiring Data Scientist | Python Enthusiast | ML Explorer</h3>
-
 
 ---
 
