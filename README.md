@@ -5,22 +5,29 @@
   <img src="https://komarev.com/ghpvc/?username=rahul-maharshi&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-maharshi" />
 </p>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Working on Data Science Projects">
-</p>
+<h2>🌟 About Me</h2>
 
----
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        I'm <strong>Rahul Maharshi</strong>, a data scientist with a strong passion for transforming raw data into meaningful insights that drive decision-making.  
+        I specialize in machine learning, statistical modeling, and data storytelling using tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong>.
+      </p>
+      <ul>
+        <li>🔍 Currently exploring <strong>deep learning</strong> and <strong>model deployment</strong></li>
+        <li>🤝 Open to collaborations in <strong>data science</strong>, <strong>ML projects</strong>, and <strong>research</strong></li>
+        <li>💬 Ask me about <strong>data analysis</strong>, <strong>predictive modeling</strong>, or <strong>data visualization</strong></li>
+        <li>📬 Reach me at: <a href="mailto:helllo.rahull@gmail.com">helllo.rahull@gmail.com</a></li>
+        <li>🌐 Portfolio: <a href="https://rahulmaharshi.dev">rahulmaharshi.dev</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on Data Science Projects" width="300"/>
+    </td>
+  </tr>
+</table>
 
-## 🌟 About Me
-
-I'm **Rahul Maharshi**, a data scientist with a strong passion for transforming raw data into meaningful insights that drive decision-making.  
-I specialize in machine learning, statistical modeling, and data storytelling using tools like **Python**, **SQL**, and **Power BI**.
-
-- 🔍 Currently exploring **deep learning** and **model deployment**
-- 🤝 Open to collaborations in **data science**, **ML projects**, and **research**
-- 💬 Ask me about **data analysis**, **predictive modeling**, or **data visualization**
-- 📫 Reach me at: [helllo.rahull@gmail.com](mailto:helllo.rahul@gmail.com)
-- 🌐 Portfolio: [rahulmaharshi.dev](https://rahulmaharshi.dev) <!-- Replace with your actual URL -->
 
 ---
 
