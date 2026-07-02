@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rahul Maharshi 👋</h1>
-<h3 align="center">Data Scientist | ML Enthusiast | Insight Seeker</h3>
+<h3 align="center">Data Analyst | ML Enthusiast | Insight Seeker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul-maharshi&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-maharshi" />
@@ -11,7 +11,7 @@
   <tr>
     <td width="60%">
       <p>
-        I'm <strong>Rahul Maharshi</strong>, a data scientist with a strong passion for transforming raw data into meaningful insights that drive decision-making.  
+        I'm <strong>Rahul Maharshi</strong>, a data analyst with a strong passion for transforming raw data into meaningful insights that drive decision-making.  
         I specialize in machine learning, statistical modeling, and data storytelling using tools like <strong>Python</strong>, <strong>SQL</strong>, and <strong>Power BI</strong>.
       </p>
       <ul>
