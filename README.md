@@ -38,7 +38,7 @@ Hi, I'm **Rahul Maharshi** 👋
 </tr>
 </table>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 
 <!--
 **rahul-maharshii/rahul-maharshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
