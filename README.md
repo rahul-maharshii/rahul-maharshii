@@ -26,7 +26,7 @@ Hi, I'm **Rahul Maharshi** 👋
 <td width="45%" align="center">
 
 <lottie-player
-    src="YOUR_LOTTIE_JSON_URL"
+    src="Loader cat.lottie"
     background="transparent"
     speed="1"
     style="width:300px;height:300px;"
