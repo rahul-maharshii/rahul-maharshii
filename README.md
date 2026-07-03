@@ -4,7 +4,7 @@
 
 I am a data analyst passionate about turning raw data into meaningful insights through analysis, visualization, and reporting.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### About Me
 
