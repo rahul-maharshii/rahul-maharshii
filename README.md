@@ -8,7 +8,6 @@ I am a data analyst passionate about turning raw data into meaningful insights t
 
 ### About Me
 
-- 📍 Based in Your Country
 - 💼 Data Analyst
 - 🗄️ Working with **SQL Server**
 - 🐍 Using **Python** for data analysis and automation
