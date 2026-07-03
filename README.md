@@ -20,11 +20,7 @@
         <li>💬 Ask me about <strong>data analysis</strong>, <strong>predictive modeling</strong>, or <strong>data visualization</strong></li>
         <li>📬 Reach me at: <a href="mailto:helllo.rahull@gmail.com">helllo.rahull@gmail.com</a></li>
        
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on Data Science Projects" width="300"/>
-    </td>
+   
   </tr>
 </table>
 
