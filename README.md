@@ -21,7 +21,7 @@ I am a data analyst passionate about turning raw data into meaningful insights t
 
 - **Languages:** Python, SQL
 - **Database:** Microsoft SQL Server
-- **Tools:** Excel, Power BI, Git, GitHub, VS Code
+- **Tools:** Excel, Power BI, GitHub, VS Code
 
 ---
 
