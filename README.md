@@ -27,8 +27,8 @@ I am a data analyst passionate about turning raw data into meaningful insights t
 
 ### Connect with Me
 
-- GitHub: https://github.com/yourusername
-- Email: helllo.rahull@gmail.com
+- GitHub: https://github.com/rahul-maharshii
+- Email:  helllo.rahull@gmail.com
 
 ---
 
