@@ -19,7 +19,7 @@
         <li>🤝 Open to collaborations in <strong>data science</strong>, <strong>ML projects</strong>, and <strong>research</strong></li>
         <li>💬 Ask me about <strong>data analysis</strong>, <strong>predictive modeling</strong>, or <strong>data visualization</strong></li>
         <li>📬 Reach me at: <a href="mailto:helllo.rahull@gmail.com">helllo.rahull@gmail.com</a></li>
-        <li>🌐 Portfolio: <a href="https://rahulmaharshi.dev">rahulmaharshi.dev</a></li>
+       
       </ul>
     </td>
     <td>
