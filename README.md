@@ -1,97 +1,40 @@
-<h1 align="center">Hi 👋, I'm Rahul Maharshi</h1>
+# Hi 👋, I'm Rahul Maharshi
 
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel</h3>
+### Data Analyst | SQL Server | Python
 
-<table>
-<tr>
-<td width="60%">
+I am a data analyst passionate about turning raw data into meaningful insights through analysis, visualization, and reporting.
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm an aspiring **Data Analyst** passionate about turning raw data into meaningful insights that drive smarter business decisions.
+### About Me
 
-I enjoy solving real-world business problems through data analysis, creating interactive dashboards, and uncovering trends using SQL, Power BI, Python, and Excel. I continuously improve my skills by building hands-on projects and exploring modern analytics techniques.
-
-- 🔍 Passionate about Data Analytics & Business Intelligence
-- 📊 Building end-to-end SQL and Power BI projects
-- 🌱 Currently learning Advanced SQL, Python, Statistics, and Machine Learning
-- 💡 Interested in Data Visualization and Business Analytics
-- 🚀 Goal: Become a Data Analyst and help organizations make data-driven decisions
+- 📍 Based in Your Country
+- 💼 Data Analyst
+- 🗄️ Working with **SQL Server**
+- 🐍 Using **Python** for data analysis and automation
+- 📊 Interested in data visualization and business intelligence
+- 🌱 Currently learning advanced analytics and machine learning
+- 📫 Email: **helllo.rahull@gmail.com**
 
 ---
 
-### 🛠️ Technical Skills
+### Skills
 
-**Languages**
-- SQL
-- Python
-
-**Data Analytics**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Transformation
-- Business Intelligence
-
-**Visualization**
-- Power BI
-- Microsoft Excel
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- MySQL / SQL Server
+- **Languages:** Python, SQL
+- **Database:** Microsoft SQL Server
+- **Tools:** Excel, Power BI, Git, GitHub, VS Code
 
 ---
 
-### 📌 Current Focus
+### Connect with Me
 
-✔ SQL Analytics Projects  
-✔ Power BI Dashboards  
-✔ Python for Data Analysis  
-✔ Business Intelligence  
-✔ Portfolio Development
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="YOUR_GIF_LINK_HERE" width="320"/>
-
-</td>
-</tr>
-</table>
+- GitHub: https://github.com/yourusername
+- Email: helllo.rahull@gmail.com
 
 ---
 
-## 📂 Featured Projects
+### GitHub Stats
 
-- 📊 SQL Sales Data Warehouse Analysis
-- 📈 Power BI Business Dashboard
-- 🐍 Python Data Analysis Projects
-- 📉 Exploratory Data Analysis (EDA)
-- 📋 Business Intelligence Reports
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
